@@ -25,16 +25,11 @@ Here are the key technologies and concepts used in the project:
 
 ## Workflow
 - Data Preprocessing
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 - Dimensionality Reduction
 - Feature Extraction
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 - Model Training
 - Web Application Development
 - Prediction and Results
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 
 ## Features
 - **Face Detection**: Identifies faces in the uploaded image.
@@ -50,17 +45,17 @@ For this python project, I had used the [IMDB-WIKI-500k](https://data.vision.ee.
 3. **Gender Prediction**: For each detected face, the gender classification model predicts whether the person is Male or Female.
 4. **Results**: The image is displayed back to the user with bounding boxes around detected faces and their corresponding gender predictions.
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+## Results:
+![App Screenshot](https://github.com/pranayganvir/gender-recognition-flask/blob/main/Screenshot/Screenshot%202025-01-15%20125316.png)
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-## Screenshots
+![App Screenshot](https://github.com/pranayganvir/gender-recognition-flask/blob/main/Screenshot/Screenshot%202025-01-15%20125354.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+![App Screenshot](https://github.com/pranayganvir/gender-recognition-flask/blob/main/Screenshot/Screenshot%202025-01-15%20125416.png)
 ## Installation and Setup
 ### Prerequisites
 - Python (3.8 or later)
