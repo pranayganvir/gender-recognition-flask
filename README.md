@@ -1,4 +1,5 @@
 # Gender Detection Web App
+![App Screenshot](https://github.com/pranayganvir/gender-recognition-flask/blob/27798214940f3f99011a77306544a17f550bc2db/Screenshot/thumbnail.jpg)
 
 ## Objective 
 The objective of this project is to develop and deploy a web application using Flask that leverages a machine learning algorithm, specifically Support Vector Machine (SVM), to recognize and classify gender based on input image.
